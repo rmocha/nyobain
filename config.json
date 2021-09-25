@@ -1,0 +1,24 @@
+{
+    "ownerNumber": "6289668212042@s.whatsapp.net",
+    "ownerName": "Vierz",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "RMocha Bot",
+    "pathImg": "./media/Itsuki.jpg",
+    "apikey": "YOUR_APIKEY",
+    "fake": "RMocha-BOTZ VERIFIED",
+    "sesidInsta": "default",
+    "sessionName": "Vierz",
+    "txtDonasi": "GOPAY : 089668212042\nTrakteer : https://trakteer.id/\nSaweeria : https://saweria.co/\nPulsa : 083874143022",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
